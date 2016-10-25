@@ -42,7 +42,7 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	width: auto;
+	width: 100%;
 	height: 350px;
 }
 
@@ -59,11 +59,11 @@
 }
 
 .pink {
-	color: #5cb85c !important;
+	color: #d44a14 !important;
 }
 
 .pinkBorder {
-	border: 5px solid #5cb85c !important;
+	border: 5px solid #d44a14 !important;
 }
 
 .vs {
@@ -250,6 +250,8 @@
 .faq {
 	width: 200px;
 	font-size: 24px;
+	background-color: #36b1ea;
+	border: #36b1ea;
 }
 
 @media (max-width: 767px) {
